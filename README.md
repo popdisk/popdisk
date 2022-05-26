@@ -5,6 +5,9 @@
 Look for something interesting
 
 ## 💫 Liitle Bit More About Me
+<p>
+  nothing here
+</p>
 
 ## 💻 Skills
 <p>
@@ -17,15 +20,7 @@ Look for something interesting
 
 ## 👥 Connect With Me
 <p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=popdisk">
+  <a href="https://keybase.io/uname8205"><img src="[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://keybase.io/images/icons/icon-keybase-logo-48.png)" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 📊 Github Status
