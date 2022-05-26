@@ -1,6 +1,6 @@
 # Hi there 👋, My name is popdisk
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/github-header-image.png" alt="my banner">
+<img width="100%" src="./github-header-image.png" alt="my banner">
 
 Look for something interesting
 
