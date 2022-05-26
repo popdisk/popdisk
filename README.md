@@ -20,7 +20,7 @@ Look for something interesting
 
 ## 👥 Connect With Me
 <p>
-  <a href="https://keybase.io/uname8205"><img src="[https://keybase.io/images/icons/icon-keybase-logo-48.png](keybase)" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+  <a href="https://keybase.io/uname8205"><img src="https://keybase.io/images/icons/icon-keybase-logo-48.png" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 📊 Github Status
