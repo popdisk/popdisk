@@ -1,4 +1,4 @@
-# Hi there 👋, My name is popdisk
+# Nice to meet you 👋
 
 <img width="100%" src="./github-header-image.png" alt="my banner">
 
